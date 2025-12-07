@@ -4,7 +4,7 @@ By examining precipitation patterns, temperature fluctuations, and various forec
 the system aids users in evaluating local flood hazards and making well-informed choices.
 Constructed with a modular Flask backend and seamlessly integrated into Google Colab through secure API keys, 
 this project showcases effective agent design, API integration, and analysis powered by large language models.
-
+---
 Flood-Agent-App/
 │
 ├── app.py
@@ -19,9 +19,9 @@ Flood-Agent-App/
 │
 └── services/
     └── agent.py
+---
 
-
-Key Features
+## Key Features
 ✅ Real-Time Weather Analysis
 
 Integrates with the National Weather Service API
