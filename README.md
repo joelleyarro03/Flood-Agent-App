@@ -1,9 +1,12 @@
-Panacea’s Passage is an AI-driven advisory tool for flood risk that leverages real-time weather information and
-Gemini-based reasoning to identify possible flood areas and offer straightforward, comprehensible safety recommendations.
+Panacea’s Passage is an AI-driven advisory tool for flood risk that leverages
+real-time weather information and
+Gemini-based reasoning to identify possible flood areas and offer straightforward,
+comprehensible safety recommendations.
 By examining precipitation patterns, temperature fluctuations, and various forecasting signals,
 the system aids users in evaluating local flood hazards and making well-informed choices.
 Constructed with a modular Flask backend and seamlessly integrated into Google Colab through secure API keys, 
 this project showcases effective agent design, API integration, and analysis powered by large language models.
+
 ---
 Flood-Agent-App/
 │
